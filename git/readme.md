@@ -1,1 +1,1 @@
-This is git file
+GIT FOLDER
